@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "oppo reno 7",
+      "category": "phone",
+      "color": "Black",
+      "price": "1120",
+      "salePrice": "1000",
+      "imageURL": "images/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 14",
+      "category": "phone",
+      "color": "gray",
+      "price": "2120",
+      "salePrice": "2000",
+      "imageURL": "images/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "relme",
+      "category": "phone",
+      "color": "white",
+      "price": "3120",
+      "salePrice": "3000",
+      "imageURL": "images/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "infinx",
+      "category": "smart watch",
+      "color": "Blue",
+      "price": "4120",
+      "salePrice": "4000",
+      "imageURL": "images/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "oppo reno 7",
+      "category": "smart watch",
+      "color": "Black",
+      "price": "1120",
+      "salePrice": "1000",
+      "imageURL": "images/1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Iphone 14",
+      "category": "smart watch",
+      "color": "gray",
+      "price": "2120",
+      "salePrice": "2000",
+      "imageURL": "images/2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "relme",
+      "category": "Labtob",
+      "color": "white",
+      "price": "3120",
+      "salePrice": "3000",
+      "imageURL": "images/3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "infinx",
+      "category": "Labtob",
+      "color": "Blue",
+      "price": "4120",
+      "salePrice": "4000",
+      "imageURL": "images/4.jpg"
+    },
+    {
+      "id": 9,
+      "title": "oppo reno 7",
+      "category": "Labtob",
+      "color": "Black",
+      "price": "1120",
+      "salePrice": "1000",
+      "imageURL": "images/1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Iphone 14",
+      "category": "Air pods",
+      "color": "gray",
+      "price": "2120",
+      "salePrice": "2000",
+      "imageURL": "images/2.jpg"
+    },
+    {
+      "id": 11,
+      "title": "relme",
+      "category": "Air pods",
+      "color": "white",
+      "price": "3120",
+      "salePrice": "3000",
+      "imageURL": "images/3.jpg"
+    },
+    {
+      "id": 12,
+      "title": "infinx",
+      "category": "Air pods",
+      "color": "Blue",
+      "price": "4120",
+      "salePrice": "4000",
+      "imageURL": "images/4.jpg"
+    }
+  ]
+}
